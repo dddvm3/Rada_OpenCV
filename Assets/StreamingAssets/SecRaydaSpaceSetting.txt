@@ -1,0 +1,1 @@
+{"DegreesValue":0.0,"XposValue":0.3208613097667694,"YposValue":0.0,"ZposValue":0.0}

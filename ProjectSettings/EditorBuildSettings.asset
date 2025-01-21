@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TUIO_IR.unity
+    guid: 3debc08de12f0e944b3ead5072195822
+  - enabled: 0
+    path: Assets/Scenes/TUIO_Rada.unity
+    guid: f881a13a7353a604cba3f44f643e3c0d
+  - enabled: 0
+    path: Assets/JobMesh.unity
+    guid: a415902575047d649a64d0cabfef5b33
+  - enabled: 0
+    path: Assets/Scenes/TUIO 1.unity
+    guid: ebcc2bb4d2039b747b3b7c96a2bc2baf
+  - enabled: 0
+    path: Assets/Scenes/GetTUIO.unity
+    guid: 1c9c9c43a0590ed47bfbb70d5f9a6edd
+  - enabled: 0
+    path: Assets/Scenes/TUIO.unity
+    guid: 4f990047bbb322c46865d87ac0b98c66
+  - enabled: 1
+    path: Assets/Scenes/JobMesh.unity
+    guid: c107cc6ca59912c4894bf57a96a76738
+  m_configObjects: {}

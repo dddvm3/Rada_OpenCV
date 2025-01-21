@@ -1,0 +1,6 @@
+{
+"DegreesValue":-135,
+"XposValue":0,
+"YposValue":0,
+"ZposValue":0
+}

@@ -1,0 +1,1 @@
+{"DegreesValue":135.0,"XposValue":0.10177019983530045,"YposValue":10.0,"ZposValue":-2.588236093521118,"CameraSizeValue":1.0399999618530274,"FirRayda_XposValue":0.0,"FirRayda_YposValue":0.0,"FirRayda_ZposValue":-1.321328043937683}
